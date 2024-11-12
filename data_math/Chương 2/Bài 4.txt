@@ -1,0 +1,134 @@
+
+/#
+Câu 1.  Phân tích đa thức thành nhân tử $5 x^{4} - 4 x^{3}$
+A. $x^{3}(5 x - 4)$ . *	   
+B. $- x^{3}(- 5 x - 4)$ .    
+C. $- x^{3}(5 x - 4)$ .	     
+D. $x^{3}(- 5 x - 4)$ .
+/#
+Câu 2. Phân tích đa thức thành nhân tử $- 2 x^{3} + 2 x$ 
+A. $2 x \left(x - 1\right) \left(x + 1\right)$ .	   
+B. $2 x \left(x + 1\right)^{2}$ .    
+C. $- 2 x \left(x - 1\right) \left(x + 1\right)$. *	     
+D. $- 2 x \left(x + 1\right)^{2}$ .
+/#
+Câu 3.  Phân tích đa thức thành nhân tử $4 x^{5} + 4 x^{4}$
+A. $x^{4}(4 x + 4)$ . *	   
+B. $x^{4}(4 - 4 x)$ .    
+C. $- x^{4}(4 x + 4)$ .	     
+D. $- x^{4}(4 - 4 x)$ .
+/#
+Câu 4. Phân tích đa thức thành nhân tử  $5 \left(- 4 x - 1\right)^{4} + \left(- 4 x - 1\right)^{3} \cdot \left(3 x + 3\right)$
+A. $\left(- 17 x - 2\right) \left(- 4 x - 1\right)^{3} $ . *	   
+B. $\left(1 - 4 x\right)^{3} \cdot \left(8 - 17 x\right) $ .    
+C. $\left(1 - 4 x\right)^{3} \left(- 17 x - 2\right) $.	     
+D. $\left(8 - 17 x\right) \left(- 4 x - 1\right)^{3}$ .
+/#
+Câu 5.  Phân tích đa thức thành nhân tử $4 x^{2} y^{4} + 5 x y^{5}$
+A. $- x y^{4} \cdot \left(4 x + 5 y\right)$ .	   
+B. $x y^{4} \cdot \left(4 x + 5 y\right)$. *    
+C. $x y^{4} \left(- 4 x + 5 y\right)$ .	     
+D. $- x y^{4} \left(- 4 x + 5 y\right)$ .
+/#
+Câu 6. Phân tích đa thức thành nhân tử $- 3 x^{8} y^{2} + x^{6} y^{5} - 2 x^{3} y^{5}$ 
+A. $x^{3} y^{2} \left(- 3 x^{5} + x^{3} y^{3} - 2 y^{3}\right)$. *	   
+B. $- x^{3} y^{2} \left(- 3 x^{5} - x^{3} y^{3} - 2 y^{3}\right)$ .    
+C. $- x^{3} y^{2} \left(- 3 x^{5} + x^{3} y^{3} - 2 y^{3}\right)$ .	     
+D. $x^{3} y^{2} \left(- 3 x^{5} - x^{3} y^{3} - 2 y^{3}\right)$ .
+/#
+Câu 7. Phân tích đa thức thành nhân tử  $- 4 x^{3} y^{4} + 2 x^{2} y^{5}$
+A. $- x^{2} y^{4} \left(- 4 x + 2 y\right)$ .	   
+B. $- x^{2} y^{4} \cdot \left(4 x + 2 y\right)$ .    
+C. $x^{2} y^{4} \cdot \left(4 x + 2 y\right)$.	     
+D. $x^{2} y^{4} \left(- 4 x + 2 y\right) $ . *
+/#
+Câu 8. Phân tích đa thức thành nhân tử  $- 9 x^{4} y^{4} - 6 x^{3} y^{5}$
+A. $3 x^{3} y^{4} \cdot \left(3 x - 2 y\right)$.	   
+B. $- 3 x^{3} y^{4} \left(- 3 x - 2 y\right)$ .    
+C. $- 3 x^{3} y^{4} \cdot \left(3 x - 2 y\right)$ .	     
+D. $3 x^{3} y^{4} \left(- 3 x - 2 y\right) $ . *
+/#
+Câu 9. Phân tích đa thức thành nhân tử   $-2.(5 - x)-\left(x - 5\right) \left(4 x - 4\right)$
+A. $\left(- x - 5\right) \left(4 x - 6\right) $.	   
+B. $\left(5 - x\right) \left(4 x - 6\right) $ . *    
+C. $\left(5 - x\right) \left(- 4 x - 6\right)$ .	     
+D. $\left(- 4 x - 6\right) \left(- x - 5\right)$ .
+/#
+Câu 10. Phân tích đa thức thành nhân tử  $x^{2} - 8 x + 15$
+A. $\left(x - 5\right) \left(x - 3\right)$ . *	   
+B. $\left(x + 3\right) \left(x + 5\right)$ .    
+C. $\left(x - 3\right) \left(x + 5\right)$ .	     
+D. $\left(x - 5\right) \left(x + 3\right) $.
+/#
+Câu 11. Phân tích đa thức thành nhân tử $2 x^{2} - 8 x + 6$
+A. $2. *\left(x - 3\right) \left(x - 1\right)$ .	   
+B. $2.\left(x - 3\right) \left(x + 1\right)$ .    
+C. $2.\left(x - 1\right) \left(x + 3\right)$.	     
+D. $2.\left(x + 1\right) \left(x + 3\right)$ .
+/#
+Câu 12. Phân tích đa thức thành nhân tử $5 x^{2} + 50 x + 125$
+A. $5. *\left(x + 5\right)^{2}$ .	   
+B. $5.\left(x - 5\right) \left(x + 5\right)$ .    
+C. $5.\left(x - 5\right) \left(x + 5\right)$.	     
+D. $5.\left(x - 5\right)^{2}$ .
+/#
+Câu 13.  Phân tích đa thức thành nhân tử ${8 x^{3} - 8}$  ta được  
+A. $(2 x + 2)(4 x^{2} - 4 x + 4) $.	   
+B. $(2 x + 2)(4 x^{2} + 4 x + 4) $ .    
+C. $(2 x - 2)(4 x^{2} + 4 x + 4) $. *	     
+D. $(2 x - 2)(4 x^{2} - 4 x + 4) $ .
+/#
+Câu 14. Phân tích đa thức thành nhân tử  ${27 - 8 x^{3}}$  ta được  
+A. $(3 - 2 x)(4 x^{2} + 6 x + 9)$ . *	   
+B. $(3 - 2 x)(4 x^{2} - 6 x + 9)$ .    
+C. $(2 x + 3)(4 x^{2} - 6 x + 9)$  .	     
+D. $(2 x + 3)(4 x^{2} + 6 x + 9)$  .
+/#
+Câu 15.  Phân tích đa thức thành nhân tử ${8 x^{3} + 27}$  ta được  
+A. $(2 x + 3)(4 x^{2} + 6 x + 9) $ .	   
+B. $(2 x + 3)(4 x^{2} - 6 x + 9) $. *    
+C. $(2 x - 3)(4 x^{2} + 6 x + 9) $.	     
+D. $(2 x - 3)(4 x^{2} - 6 x + 9) $ .
+/#
+Câu 16. Phân tích đa thức thành nhân tử $x^{3} + 4 x^{2} - 4 x - 16$
+A. $\left(4 - x\right) \left(x - 2\right) \left(x + 2\right)$ .	   
+B. $5\left(x - 2\right) \left(x + 2\right) \left(x + 4\right)$ .    
+C. $\left(x - 4\right) \left(x - 2\right) \left(x + 2\right)$.	     
+D. $1\left(x - 2\right) \left(x + 2\right) \left(x + 4\right)$ . *
+/#
+Câu 17. Phân tích đa thức thành nhân tử  $x^{3} - x^{2} - 5 x - 3$
+A. $\left(x - 3\right) \left(x + 1\right)^{2}$ . *	   
+B. $\left(x - 1\right) \left(x + 1\right) \left(x + 3\right)$ .    
+C. $\left(x - 3\right) \left(x - 1\right) \left(x + 1\right) $.	     
+D. $\left(x - 3\right) \left(x - 1\right)^{2}$ .
+/#
+Câu 18.  Tìm ${x}$ biết $x^{2} + 7 x=0$
+A. $x=-10$, $x=7$  .	   
+B. $x=0$, $x=-7$  . *    
+C. $x=-8$, $x=-7$  .	     
+D. $x=0$, $x=-10$  .
+/#
+Câu 19.  Tìm ${x}$ biết $x^{2} - 1+3 x + 3=0$
+A. $x=-1,x=-2$ . *	   
+B. $x=-3$, $x=-2$  .    
+C. $x=-1$, $x=-7$  .	     
+D. $x=1$, $x=-2$  .
+/#
+Câu 20.  Tìm ${x}$ biết $x^{2} - 6 x + 8=0$
+A. $x=2,x=10$ .	   
+B. $x=2,x=4$ . *    
+C. $x=8,x=8$   .	     
+D. $x=6,x=4$  .
+/#
+Câu 21. Tìm ${x}$ biết  $x^{3} + 8 x^{2} + 5 x - 50 =0 $
+A. $x=5, x=-2, x=-5$ .	   
+B. $x=5, x=2, x=-5$.    
+C. $x=-5, x=2, x=-5$ . *	     
+D. $x=-5, x=-2, x=5$ .
+/#
+Câu 22.  Chọn khẳng định đúng trong các khẳng định sau:
+A. $\left(2 - 4 n\right)^{2} - 4$ không chia hết cho ${4}$ với mọi $n \in \mathbb{Z}$.	   
+B. $\left(9 n - 5\right)^{2} - 25$ chia hết cho ${9}$ với mọi $n \in \mathbb{Z}$. *    
+C. $\left(9 n - 5\right)^{3} + 125$  không chia hết cho ${9}$ với mọi $n \in \mathbb{Z}$.	     
+D. $\left(9 n - 5\right)^{2} - 25$ không chia hết cho ${9}$ với mọi $n \in \mathbb{Z}$ .
+/#

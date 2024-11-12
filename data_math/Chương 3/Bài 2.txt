@@ -1,0 +1,92 @@
+
+/#
+Câu 1. Cho hình vẽ sau. Chọn khẳng định sai trong các khẳng định sau? 
+A. $\widehat{MNP} = 113^{\circ}$.	   
+B. $\widehat{NMQ} = 67^{\circ}$ . *    
+C. Tứ giác ${MNPQ}$ là hình thang. .	     
+D. $x= 67^{\circ}$ thì tứ giác ${MNPQ}$ hình thang cân. .
+/#
+Câu 2. Cho hình vẽ sau. Chọn khẳng định sai trong các khẳng định sau? 
+A. $\widehat{NMQ} = 69^{\circ}$ . *	   
+B. $x= 69^{\circ}$ thì tứ giác ${MNPQ}$ hình thang cân. .    
+C. $\widehat{MNP} = 111^{\circ}$.	     
+D. Tứ giác ${MNPQ}$ là hình thang. .
+/#
+Câu 3. Cho hình vẽ sau. Chọn khẳng định sai trong các khẳng định sau? 
+A. $\widehat{A B C } = 127^{\circ}$.	   
+B. Tứ giác ${A B C D }$ là hình thang. .    
+C. $\widehat{B A D } = 53^{\circ}$ . *	     
+D. $x= 53^{\circ}$ thì tứ giác ${A B C D }$ hình thang cân. .
+/#
+Câu 4. Cho hình thang ${EFKI}$. Chọn khẳng định sai trong các khẳng định sau? 
+A. $\widehat{E} =54^{\circ} $.	   
+B. $\widehat{F} =54^{\circ} $.    
+C. $\widehat{E} > \widehat{F} $. *	     
+D. Tứ giác ${EFKI}$ là hình thang cân. .
+/#
+Câu 5. Cho hình thang ${PQRT}$. Chọn khẳng định sai trong các khẳng định sau? 
+A. Tứ giác ${PQRT}$ là hình thang cân. .	   
+B. $\widehat{P} =60^{\circ} $.    
+C. $\widehat{P} > \widehat{Q} $. *	     
+D. $\widehat{Q} =60^{\circ} $.
+/#
+Câu 6. Cho hình thang ${GHFE}$. Chọn khẳng định sai trong các khẳng định sau? 
+A. Tứ giác ${GHFE}$ là hình thang cân. .	   
+B. $\widehat{G} > \widehat{H} $. *    
+C. $\widehat{G} =53^{\circ} $.	     
+D. $\widehat{H} =53^{\circ} $.
+/#
+Câu 7. Cho hình thang ${A B C M }$ biết  $A C =B M $. Trong các khẳng định sau khẳng định nào sai?
+A. $\widehat{A B M }= \widehat{A C M }$ .	   
+B. $\widehat{A B C }= \widehat{A M C }$ . *    
+C. $\widehat{M C A }= \widehat{B M C }$.	     
+D. ${A M } = {B C }$ .
+/#
+Câu 8. Cho hình thang ${PQRM}$ biết  $PR=QM$. Trong các khẳng định sau khẳng định nào sai?
+A. $\widehat{MRP}= \widehat{QMR}$.	   
+B. ${PM} = {QR}$ .    
+C. $\widehat{PQR}= \widehat{PMR}$ . *	     
+D. $\widehat{PQM}= \widehat{PRM}$ .
+/#
+Câu 9. Cho hình thang ${EFKI}$ biết  $EK=FI$. Trong các khẳng định sau khẳng định nào sai?
+A. $\widehat{IKE}= \widehat{FIK}$.	   
+B. $\widehat{EFK}= \widehat{EIK}$ . *    
+C. $\widehat{EFI}= \widehat{EKI}$ .	     
+D. ${EI} = {FK}$ .
+/#
+Câu 10. Cho tam giác ${QKH}$, hai đường phân giác $\widehat{K}$, $\widehat{H}$ cắt nhau tại ${I}$. Qua ${I}$ kẻ đường thẳng song song với $KH$  đường thẳng này cắt ${QK}$, ${QH}$ lần lượt tại ${M}, {N}$. Trong các khẳng định sau khẳng định nào sai?
+A. Tứ giác ${KHNI}$ là hình thang.	   
+B. $MN=MK+NH$.    
+C. Tứ giác ${MNHK}$ là hình thang cân. *	     
+D. Tứ giác ${KHIM}$ là hình thang. .
+/#
+Câu 11. Cho hình thang cân ${QKHM}$ có $QK // HM$ và $QK < HM$, biết $QM= KQ$. Trong các khẳng định sau khẳng định nào sai?
+A. ${HQ}$ là tia phân giác của $\widehat{KHM }$ .	   
+B. ${MK}$ là tia phân giác của $\widehat{QMH }$.    
+C. ${QH}$ là tia phân giác của $\widehat{KQM }$ . *	     
+D. $QK=HK$.
+/#
+Câu 12. Cho hình thang cân ${QKHF}$ có $QK // HF$. Lấy ${N}, {M}$ lần lượt là trung điểm của ${QK}$, ${HF}$ Trong các khẳng định sau khẳng định nào sai?
+A. $QM=KM$ .	   
+B. ${ MN}$ là đường cao của hình thang .    
+C. $\Delta {QMK}$ cân tại ${M}$ .	     
+D. $\Delta {QMF}$ cân tại ${M}$ . *
+/#
+Câu 13. Cho tam giác ${A B C }$ cân tại ${A }$ hai đường trung tuyến ${B D }$ và ${C E }$. Chọn khẳng định sai trong các khẳng định sau:
+A. $E C $ và $D B $ cắt nhau tại trung điểm của mỗi đường. *	   
+B. Tam giác ${A E D }$ là tam giác cân.    
+C. $\Delta{A E C } =\Delta{A D B } $ .	     
+D. Tứ giác ${B C D E }$ là hình thang cân.
+/#
+Câu 14. Cho hình thang cân ${PQRT}$ có $ PQ // RT$ và $PQ < RT$, hai đường cao ${PM, QN }$. Chọn khẳng định sai trong các khẳng định sau?
+A. $PQ=MN$.	   
+B. $PQ=2. *NR$.    
+C. $\Delta {PMT}=\Delta {QNR}$.	     
+D. $NR = \frac { TR- PQ}{2}$.
+/#
+Câu 15. Cho hình thang cân ${PQRN}$ có ${PQ} // {RN}$ và ${PQ} < {RN}$. Gọi ${O}$ là giao điểm của ${PN}$ và ${QR}$, ${M}$ là giao điểm của ${PR}$ và ${QN}$.Chọn khẳng định sai trong các khẳng định sau? 
+A. ${O}$, ${M}$ và trung điểm của ${NR}$ thẳng hàng.	   
+B. Tam giác ${OPQ}$ là tam giác đều . *    
+C. $\Delta{PQN}=\Delta{QPR}$.	     
+D. ${MR}={MN}$ .
+/#

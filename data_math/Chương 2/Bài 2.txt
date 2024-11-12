@@ -1,0 +1,62 @@
+
+/#
+Câu 1. Khai triển biểu thức sau theo hằng đẳng thức  ${\left(x + 1\right)^{3}}$ bằng
+A. ${x^{3} + 3 x^{2} + 3 x + 1}$ . *	   
+B. ${x^{3} + 3 x^{2} - 3 x + 1}$ .    
+C. ${x^{3} - 3 x^{2} + 3 x + 1}$ .	     
+D. ${x^{3} + 3 x^{2} + 3 x - 1}$ .
+/#
+Câu 2. Khai triển biểu thức sau theo hằng đẳng thức  ${\left(5 x - 2\right)^{3}}$ bằng
+A. ${125 x^{3} + 150 x^{2} + 60 x - 8}$ .	   
+B. ${125 x^{3} - 150 x^{2} + 60 x - 8}$ . *    
+C. ${125 x^{3} - 150 x^{2} + 60 x + 8}$ .	     
+D. ${125 x^{3} - 150 x^{2} - 60 x - 8}$ .
+/#
+Câu 3. Khai triển biểu thức sau theo hằng đẳng thức  ${\left(5 - 2 x\right)^{3}}$ bằng
+A. ${8 x^{3} + 60 x^{2} + 150 x + 125}$ .	   
+B. ${- 8 x^{3} - 60 x^{2} - 150 x + 125}$ .    
+C. ${- 8 x^{3} + 60 x^{2} - 150 x + 125}$ . *	     
+D. ${- 8 x^{3} + 60 x^{2} + 150 x + 125}$ .
+/#
+Câu 4. Biểu thức $64 x^{3} - 192 x^{2} y + 192 x y^{2} - 64 y^{3}$ bằng
+A. ${\left(7 x - 2 y\right)^{3} }$ .	   
+B. ${\left(4 x - 7 y\right)^{3} }$ .    
+C. ${\left(4 x - 4 y\right)^{3} }$. *	     
+D. ${\left(x - 7 y\right)^{3} }$.
+/#
+Câu 5. Biểu thức $8 x^{3} - 24 x^{2} + 24 x - 8$ bằng
+A. ${\left(2 x - 4\right)^{3}} $ .	   
+B. ${\left(2 x - 8\right)^{3}} $ .    
+C. ${\left(2 x + 1\right)^{3}} $ .	     
+D. ${\left(2 x - 2\right)^{3}} $ . *
+/#
+Câu 6. Biểu thức $8 x^{3} - 24 x^{2} y + 24 x y^{2} - 8 y^{3}$ bằng
+A. ${\left(2 x - 2 y\right)^{3} }$. *	   
+B. ${\left(x - 3 y\right)^{3} }$.    
+C. ${\left(5 x - y\right)^{3} }$ .	     
+D. ${\left(2 x - 3 y\right)^{3} }$ .
+/#
+Câu 7. Rút gọn biểu thức sau ${\left(2 x - 2\right)^{3} + \left(2 x + 2\right)^{3}}$ 
+A. ${16 x^{3} + 64 x}$.	   
+B. ${16 x^{3} - 64 x}$.    
+C. ${16 x^{3} - 48 x}$ .	     
+D. ${16 x^{3} + 48 x}$ . *
+/#
+Câu 8. Rút gọn biểu thức sau  ${27 x \left(x + 1\right)^{2} + \left(- 3 x - 2\right)^{3}}$ 
+A. ${8 - 9 x}$ .	   
+B. ${- 9 x - 8}$. *    
+C. ${15 x + 8}$ .	     
+D. ${15 x - 8}$.
+/#
+Câu 9. Rút gọn biểu thức ${- 8 x y - 2 x \left(x - y\right) \left(x + y\right) + \left(2 x + y\right)^{3}}$ được
+A. ${12 x^{2} y + y^{3}}$ . *	   
+B. ${12 x^{2} y - y^{3}}$ .    
+C. ${- 12 x^{2} y + y^{3}}$ .	     
+D. ${- 12 x^{2} y - y^{3}}$ .
+/#
+Câu 10. Rút gọn biểu thức sau ${\left(3 x - 3\right)^{3} + \left(3 x + 3\right)^{3}}$ 
+A. ${54 x^{3} - 216 x}$.	   
+B. ${54 x^{3} + 162 x}$ . *    
+C. ${54 x^{3} + 216 x}$.	     
+D. ${54 x^{3} - 162 x}$ .
+/#

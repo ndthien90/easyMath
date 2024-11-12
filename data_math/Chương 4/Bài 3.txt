@@ -1,0 +1,62 @@
+
+/#
+Câu 1.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{7}{9}}$.	   
+B. ${\frac{28}{3}}$ . *	    
+C. ${\frac{108}{7}}$.	     
+D. ${\frac{21}{4}}$ .
+/#
+Câu 2.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${14}$. *	   
+B. ${\frac{50}{7}}$ .	    
+C. ${16}$.	     
+D. ${\frac{7}{2}}$ .
+/#
+Câu 3.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{21}{2}}$.	   
+B. ${\frac{14}{3}}$ . *	    
+C. ${\frac{24}{7}}$ .	     
+D. ${\frac{2}{3}}$.
+/#
+Câu 4.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{99}{7}}$. *	   
+B. ${\frac{113}{7}}$.	    
+C. ${\frac{77}{9}}$ .	     
+D. ${\frac{63}{11}}$ .
+/#
+Câu 5.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{6}{7}}$.	   
+B. ${\frac{77}{6}}$.	    
+C. ${\frac{66}{7}}$ . *	     
+D. ${\frac{42}{11}}$ .
+/#
+Câu 6.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{63}{5}}$ .	   
+B. ${\frac{158}{9}}$.	    
+C. ${\frac{45}{7}}$ .	     
+D. ${\frac{140}{9}}$. *
+/#
+Câu 7.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{14}{3}}$ .	   
+B. ${\frac{54}{7}}$ .	    
+C. ${\frac{21}{2}}$. *	     
+D. ${\frac{23}{2}}$.
+/#
+Câu 8.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{77}{9}}$ .	   
+B. ${\frac{99}{7}}$. *	    
+C. ${\frac{113}{7}}$.	     
+D. ${\frac{63}{11}}$ .
+/#
+Câu 9.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${17}$.	   
+B. ${\frac{20}{3}}$ .	    
+C. ${\frac{48}{5}}$ .	     
+D. ${15}$. *
+/#
+Câu 10.  Tìm số đo ${x}$ trong hình vẽ sau:
+A. ${\frac{38}{3}}$.	   
+B. ${\frac{21}{5}}$ .	    
+C. ${\frac{35}{3}}$. *	     
+D. ${\frac{60}{7}}$ .
+/#

@@ -1,0 +1,62 @@
+
+/#
+Câu 1. Khai triển  ${27 - x^{3}}$  ta được  
+A. $(x + 3)(x^{2} + 3 x + 9)$  .	   
+B. $(x + 3)(x^{2} - 3 x + 9)$  .    
+C. $(3 - x)(x^{2} - 3 x + 9)$ .	     
+D. $(3 - x)(x^{2} + 3 x + 9)$ . *
+/#
+Câu 2.  Khai triển ${27 x^{3} + 8}$  ta được  
+A. $(3 x - 2)(9 x^{2} - 6 x + 4) $ .	   
+B. $(3 x + 2)(9 x^{2} + 6 x + 4) $ .    
+C. $(3 x - 2)(9 x^{2} + 6 x + 4) $.	     
+D. $(3 x + 2)(9 x^{2} - 6 x + 4) $. *
+/#
+Câu 3. Biểu thức  $(4 - x)(x^{2} + 4 x + 16)$ bằng 
+A. ${- x^{3} - 64} $ .	   
+B. ${64 - x^{3}} $ . *	    
+C. ${x^{3} + 64} $ .	     
+D. ${x^{3} - 64} $ .
+/#
+Câu 4. Biểu thức  $(1 - x)(x^{2} + x + 1)$ bằng 
+A. ${- x^{3} - 1} $ .	   
+B. ${x^{3} - 1} $ .	    
+C. ${1 - x^{3}} $ . *	     
+D. ${x^{3} + 1} $ .
+/#
+Câu 5. Biểu thức  $(2 x + 2)(4 x^{2} - 4 x + 4)$ bằng 
+A. ${- 8 x^{3} - 8} $ .	   
+B. ${8 - 8 x^{3}} $ .	    
+C. ${8 x^{3} + 8} $ . *	     
+D. ${8 x^{3} - 8} $ .
+/#
+Câu 6. Biểu thức  $(4 x + 4)(16 x^{2} - 16 x + 16)$ bằng 
+A. ${64 - 64 x^{3}} $ .	   
+B. ${64 x^{3} - 64} $ .	    
+C. ${64 x^{3} + 64} $ . *	     
+D. ${- 64 x^{3} - 64} $ .
+/#
+Câu 7. Rút gọn biểu thức $(x - 1)(x^{2} + x + 1)-x \left(x - 2\right) \left(x + 2\right)$ sẽ được
+A. ${1 - 4 x}$ .	   
+B. ${4 x - 1}$. *	    
+C. ${- 4 x - 1}$ .	     
+D. ${4 x + 1}$.
+/#
+Câu 8. Rút gọn biểu thức $(x + 4)(x^{2} - 4 x + 16)-x \left(x - 1\right)^{2}+x(1 - 2 x)$ sẽ được
+A. ${-64}$ .	   
+B. ${64}$. *    
+C. ${-128}$.	     
+D. ${128}$ .
+/#
+Câu 9.  Chọn khẳng định đúng trong các khẳng định sau:
+A. $\left(4 n - 3\right)^{3} + 27$ không chia hết cho ${4}$ với mọi $n \in \mathbb{Z}$.	   
+B. $\left(7 n - 3\right)^{3} + 27$ chia hết cho ${7}$ với mọi $n \in \mathbb{Z}$. *    
+C. $\left(7 n - 3\right)^{3} + 27$  không chia hết cho ${7}$ với mọi $n \in \mathbb{Z}$.	     
+D. $\left(16 n - 3\right)^{3} + 27$ không chia hết cho ${16}$ với mọi $n \in \mathbb{Z}$ . PHẦN III. Câu trắc nghiệm trả lời ngắn.
+/#
+Câu 1. Triển khai biểu thức sau theo hằng đẳng thức:  a) $x^{3} - 1 \quad\quad$ b) $64 - x^{3} \quad\quad$ c) $27 x^{3} + 8 \quad\quad$ d) $8 - 64 x^{3} \quad\quad$ e) $27 x^{3} + 8 y^{3} \quad\quad$
+/#
+Câu 2. Viết thành vế kia của hằng đẳng thức:  a) $(x + 2)(x^{2} - 2 x + 4)\quad\quad$ b) $(3 - x)(x^{2} + 3 x + 9)\quad\quad$ c) $(2 x + 3)(4 x^{2} - 6 x + 9) $d) $(3 - 2 x)(4 x^{2} + 6 x + 9) \quad\quad$e) $(x + 3 y)(x^{2} - 3 x y + 9 y^{2})\quad\quad$ f) $(x^{2} + 3 y)(x^{4} - 3 x^{2} y + 9 y^{2})$
+/#
+Câu 3.  Rút gọn biểu thức sau: a) $(x + 3)(x^{2} - 3 x + 9)-(x^{3} - 5)$b) $(x + 3)(x^{2} - 3 x + 9)-\left(x + 3\right)^{3}$c) $(x + 1)(x^{2} - x + 1)-x \left(x - 2\right) \left(x + 2\right)$d) $(1 - x)(x^{2} + x + 1)+(x + 3)(x^{2} - 3 x + 9)$e) $(x + 3)(x^{2} - 3 x + 9)-x \left(x + 3\right)^{2}+x(6 x + 9)$f) $(x + y)(x^{2} - x y + y^{2})-(x + y)(x^{2} - x y + y^{2})$
+/#

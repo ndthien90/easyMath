@@ -1,0 +1,86 @@
+
+/#
+Câu 1. Cho hình bình hành ${ABCD}$ như hình vẽ. Biết $\widehat{ BAD } =62^{\circ}$ và ${I}$ là trung điểm của ${BD}$.Chọn khẳng định sai trong các khẳng định sau? 
+A. $\Delta{CAB}= \Delta{BDC}$  . *	   
+B. $\widehat{ADC}=118^{ \circ}$ .    
+C. $\widehat{ABC}=118^{ \circ}$.	     
+D. ${I}$, ${A}$, ${C}$ thẳng hàng.
+/#
+Câu 2. Cho hình bình hành ${QKHF}$ như hình vẽ. Biết $\widehat{ KQF } =58^{\circ}$ và ${O}$ là trung điểm của ${KF}$.Chọn khẳng định sai trong các khẳng định sau? 
+A. $\widehat{QKH}=122^{ \circ}$.	   
+B. $\widehat{QFH}=122^{ \circ}$ .    
+C. $\Delta{HQK}= \Delta{KFH}$  . *	     
+D. ${O}$, ${Q}$, ${H}$ thẳng hàng.
+/#
+Câu 3. Cho hình bình hành ${IJQD}$ như hình vẽ. Biết $\widehat{ JID } =67^{\circ}$ và ${O}$ là trung điểm của ${JD}$.Chọn khẳng định sai trong các khẳng định sau? 
+A. $\Delta{QIJ}= \Delta{JDQ}$  . *	   
+B. $\widehat{IJQ}=113^{ \circ}$.    
+C. ${O}$, ${I}$, ${Q}$ thẳng hàng.	     
+D. $\widehat{IDQ}=113^{ \circ}$ .
+/#
+Câu 4. Cho $\Delta{ABC}$ cân tại ${A}$ có điểm ${D}$ trên cạnh ${BC}$. Kẻ $DI//AC$, $DJ//AB$. Chọn khẳng định sai trong các khẳng định sau? 
+A. $\Delta{JDC}$ là tam giác đều. *	   
+B. Tứ giác ${AIDJ}$ là hình bình hành..    
+C. $DI+DJ=BI+AI=AB$ .	     
+D. $\Delta{BDI}$ cân tại ${I}$ .
+/#
+Câu 5. Cho $\Delta{IJQ}$ cân tại ${I}$ có điểm ${K}$ trên cạnh ${JQ}$. Kẻ $KM//IQ$, $KN//IJ$. Chọn khẳng định sai trong các khẳng định sau? 
+A. $\Delta{JKM}$ cân tại ${M}$ .	   
+B. $KM+KN=JM+IM=IJ$ .    
+C. Tứ giác ${IMKN}$ là hình bình hành..	     
+D. $\Delta{NKQ}$ là tam giác đều. *
+/#
+Câu 6. Cho $\Delta{GHF}$ cân tại ${G}$ có điểm ${E}$ trên cạnh ${HF}$. Kẻ $EI//GF$, $EJ//GH$. Chọn khẳng định sai trong các khẳng định sau? 
+A. $\Delta{JEF}$ là tam giác đều. *	   
+B. $EI+EJ=HI+GI=GH$ .    
+C. $\Delta{HEI}$ cân tại ${I}$ .	     
+D. Tứ giác ${GIEJ}$ là hình bình hành..
+/#
+Câu 7. Cho hình bình hành ${EFKH}$ có $EF < KH$. Tia phân giác của góc $\widehat{F}$, $\widehat{H}$ lần lượt cắt ${EH, FK}$ tại ${I, J}$. Trong các khẳng định sau khẳng định nào sai?
+A. Tứ giác ${FKHI}$ là hình thang cân . *	   
+B. $\Delta{EFI}$ cân tại ${E}$.    
+C. $\Delta{KJH}$ cân tại ${K}$.	     
+D. Tứ giác ${FIHJ}$ là hình bình hành.
+/#
+Câu 8. Cho hình bình hành ${ABCD}$. Trên cạnh ${AB}$ lấy điểm ${I}$ trên cạnh ${CD}$ lấy điểm ${J}$ sao cho $AI=CJ$. Chọn khẳng sai trong các khẳng định sau?
+A. $\Delta { BCJ } =\Delta {IDA}$ . *	   
+B. ${AICJ}$ là hình bình hành .    
+C. ${DIBJ}$ là hình bình hành.	     
+D. ${BI=DJ}$.
+/#
+Câu 9. Cho hình bình hành ${EFGH}$. Trên cạnh ${EF}$ lấy điểm ${I}$ trên cạnh ${GH}$ lấy điểm ${J}$ sao cho $EI=GJ$. Chọn khẳng sai trong các khẳng định sau?
+A. ${EIGJ}$ là hình bình hành .	   
+B. $\Delta { FGJ } =\Delta {IHE}$ . *    
+C. ${FI=HJ}$.	     
+D. ${HIFJ}$ là hình bình hành.
+/#
+Câu 10. Cho hình bình hành ${ABCD}$. Trên cạnh ${AB}$ lấy điểm ${I}$ trên cạnh ${CD}$ lấy điểm ${J}$ sao cho $AI=CJ$. Chọn khẳng sai trong các khẳng định sau?
+A. $\Delta { BCJ } =\Delta {IDA}$ . *	   
+B. ${AICJ}$ là hình bình hành .    
+C. ${BI=DJ}$.	     
+D. ${DIBJ}$ là hình bình hành.
+/#
+Câu 11. Cho hình bình hành ${ABCD}$ có $AB>CD$. Từ ${A}$ kẻ đường thẳng vuông góc với ${BD}$ cắt ${DC}$ tại ${I}$, từ ${C}$ vẽ đường thẳng vuông góc với ${BD}$ cắt ${AB}$ tại ${J}$. Gọi ${O}$ là trung điểm của ${BD}$. Trong các khẳng định sau khẳng định nào sai? 
+A. ${BJDI}$ là hình bình hành.	   
+B. ${ABCI}$ là hình thang cân. *    
+C. ${O}$ là trung điểm của ${IJ}$.	     
+D. ${AICJ}$ là hình bình hành.
+/#
+Câu 12. Cho tam giác ${PQR}$ cân tại ${P}$ lấy điểm ${T}$ bất kỳ trên ${PQ}$, lấy điểm ${N}$ trên tia đối của tia ${RP}$ sao cho $RN=QT$. Từ ${T}$ kẻ đường thẳng song song với ${PR}$ cắt ${QR}$ tại ${M}$. Chọn khẳng định sai trong các khẳng định sau?  
+A. $TM=RN$.	   
+B. Tứ giác ${TRNM}$ là hình bình hành  .    
+C. ${ PTMR }$ là hình thang cân. *	     
+D. Tam giác ${TQM}$ là tam giác cân .
+/#
+Câu 13. Cho hình bình hành  ${GHFE}$. Có ${I, J, M, N}$ lần lượt là trung điểm của ${ GH, HF, FE, GE }$. Chọn khẳng định sai trong các khẳng định sau?
+A. ${IJMN }$ là hình bình hành  .	   
+B. $IN=JM$ .    
+C. $IJ=MN$.	     
+D. ${JMEH}$ là hình thang cân . *
+/#
+Câu 14. Cho hình bình hành  ${EFKH}$ có ${I, J}$ lần lượt là trung điểm của ${EF, KH }$. Đường ${EJ}$ và ${KI}$ cắt ${FH}$ lần lượt tại ${M, N }$.  Từ ${N}$ kẻ đường thẳng song song với ${EF}$ cắt ${EJ}$ tại ${G}$. Trong các khẳng định sau khẳng định nào sai?
+A. ${ EIKJ }$ là hình bình hành.	   
+B. ${ FNGE }$ là hình thang cân. *    
+C. $FN=MN=MH$.	     
+D. $\Delta {MNG}=\Delta {MHJ }$.
+/#

@@ -1,0 +1,54 @@
+
+/#
+Câu 1. Cho tam giác ${EFG}$ vuông tại ${E}$ có đường cao ${EI}$. Kẻ ${IH} \bot {EF}, H\in EF$. Kẻ $IQ\bot EG, Q \in EG$. Tứ giác ${EHIQ}$ là hình gì?
+/#
+Câu 2. Cho tam giác ${ABC}$ vuông tại ${A}$ có đường cao ${AI}$. Kẻ ${ID} \bot {AB}, D\in AB$. Kẻ $IM\bot AC, M \in AC$. Tứ giác ${ADIM}$ là hình gì?
+/#
+Câu 3. Cho tam giác ${A B C }$ vuông tại ${A }$ có ${M }$ là trung điểm ${B C }$. Từ ${M }$ kẻ $M E //A C  \left (E  \in A B  \right), M F //A B  \left(F  \in A C  \right)$ 
+A. Tứ giác ${B E F M , A E M F }$ là hình gì?
+B. Gọi ${O }$ là trung điểm của ${A M }$, chứng minh $O E =O F $.
+/#
+Câu 4. Cho tam giác ${MNP}$ vuông tại ${M}$ có ${E}$ là trung điểm ${NP}$. Từ ${E}$ kẻ $EI//MP \left (I \in MN \right), EQ//MN \left(Q \in MP \right)$ 
+A. Tứ giác ${NIQE, MIEQ}$ là hình gì?
+B. Gọi ${O}$ là trung điểm của ${ME}$, chứng minh $OI=OQ$.
+/#
+Câu 5. Cho tam giác ${IJQ}$vuông tại ${I}$, đường cao ${IN}$, trung tuyến ${IM}$. Qua ${N}$ kẻ $NE//IQ \left(E \in IJ \right)$ và $NF//IJ \left( F \in IQ \right )$. Đoạn ${EF}$ cắt ${IN, IM}$ lần lượt tại ${O}$ và ${K}$. 
+A. Chứng minh rằng $IN=EF$ 
+B. $\Delta {MIQ}$ là tam giác gì? 
+C. Chứng minh $\Delta {IFK}$ là tam giác vuông.
+/#
+Câu 6. Cho tam giác ${MNP}$vuông tại ${M}$, đường cao ${MH}$, trung tuyến ${ME}$. Qua ${H}$ kẻ $HI//MP \left(I \in MN \right)$ và $HK//MN \left( K \in MP \right )$. Đoạn ${IK}$ cắt ${MH, ME}$ lần lượt tại ${O}$ và ${Q}$. 
+A. Chứng minh rằng $MH=IK$ 
+B. $\Delta {EMP}$ là tam giác gì? 
+C. Chứng minh $\Delta {MKQ}$ là tam giác vuông.
+/#
+Câu 7. Cho tam giác ${GHF}$ vuông tại ${G}$ có $GH<GF$. Gọi ${I}$ là trung điểm của $ {HF}$. Trên tia đối của tia ${IG}$ lấy điểm ${M}$ sao cho $IM=IG$. 
+A. Chứng minh rằng ${GHFM}$ là hình chữ nhật. 
+B. Lấy điểm ${E}$ sao cho ${H}$ là trung điểm của ${GE}$. Chứng minh ${HEMF}$ là hình bình hành.
+C. ${EI}$ cắt ${HM}$ tại ${P}$. Chứng minh ${EP=2PI}$.
+/#
+Câu 8. Cho tam giác ${GHF}$ vuông tại ${G}$ có $GH<GF$. Gọi ${I}$ là trung điểm của $ {HF}$. Trên tia đối của tia ${IG}$ lấy điểm ${M}$ sao cho $IM=IG$. 
+A. Chứng minh rằng ${GHFM}$ là hình chữ nhật. 
+B. Lấy điểm ${E}$ sao cho ${H}$ là trung điểm của ${GE}$. Chứng minh ${HEMF}$ là hình bình hành.
+C. ${EI}$ cắt ${HM}$ tại ${P}$. Chứng minh ${EP=2PI}$.
+/#
+Câu 9. Cho tam giác ${IJQ}$ vuông tại ${I}$ có $IJ<IQ$. Cho ${E}$ là trung điểm của ${JQ}$. Gọi ${M,N}$ lần lượt là hình chiếu của ${E}$ lên ${IJ, IQ }$. Lấy ${K}$ sao cho ${N}$ là trung điểm của ${EK}$.
+A. Chứng minh $ {M, N}$ lần lượt là trung điểm của ${IJ, IQ }$ 
+B. Tứ giác ${IEQK}$ là hình gì?
+/#
+Câu 10. Cho tam giác ${EFK}$ vuông tại ${E}$, có ${EH}$ là đường cao. Gọi ${P}$ và ${Q}$ lần lượt là hình chiếu của ${H}$ xuống ${ EF, EK}$.  Gọi ${J}$ là trung điểm của ${HF}$, ${M}$ là trung điểm của ${HK}$, ${EH}$ cắt ${PQ}$ tại ${I}$
+A. Tứ giác ${ EPHQ}$ là hình gì? 
+B. Chứng minh $\Delta{ MQH}$ là tam giác cân.
+C. Chứng minh $\widehat { MQP}=90^{\circ}$ và $PJ//QM$
+/#
+Câu 11. Cho tam giác $\Delta{EFG}$ vuông tại ${E}$, gọi ${I}$ là trung điểm của ${FG}$. Gọi ${D, H}$ lần lượt là chân đường vuông góc kẻ từ ${I}$ đến ${EF, EG}$. Gọi ${N}, {O}$ lần lượt là trung điểm của ${IF, IG}$.Tứ giác ${DNOH}$ là hình gì?$\Delta {EFG}$ cần thêm điều kiện gì để ${DNOH}$ là hình chữ nhật.
+/#
+Câu 12. Cho tam giác $\Delta{MNP}$ vuông tại ${M}$, có ${E}$ là trung điểm của ${NP}$. Gọi ${I, Q }$ lần lượt là hình chiếu của ${E}$ lên ${MN, MP }$ Gọi ${I, Q }$ lần lượt là hình chiếu của ${E}$ trên ${ MN, MP}$. 
+A. Chứng minh ${I; Q}$ lần lượt là trung điểm của ${MN, MP}$.
+B. Chứng minh ${NIQE }$ là hình bình hành.
+C. Lấy ${K}$ sao cho ${E}$ là trung điểm của $ {KQ }$. Hạ $QO \bot NP$. Chứng minh $MO \bot OK$.
+/#
+Câu 13. Cho $\Delta{PQR}$ vuông tại ${P}$. Điểm ${E}$ trên cạnh ${QR}$. Hạ $ EM \bot PQ, ET \bot PR$. 
+A. Tứ giác ${PMET}$ là hình gì? 
+B. Gọi ${PI }$ là đường cao $\Delta{PQR}$. Tính $\widehat{MIT} $
+/#

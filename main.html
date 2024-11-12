@@ -1,0 +1,319 @@
+<!DOCTYPE html><html lang="vi"><head><meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' 'unsafe-eval' data: blob: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://code.jquery.com https://unpkg.com https://d3js.org https://threejs.org https://cdn.plot.ly https://stackpath.bootstrapcdn.com https://maps.googleapis.com https://cdn.tailwindcss.com https://ajax.googleapis.com https://kit.fontawesome.com https://cdn.datatables.net https://maxcdn.bootstrapcdn.com https://code.highcharts.com https://tako-static-assets-production.s3.amazonaws.com https://www.youtube.com https://fonts.googleapis.com https://fonts.gstatic.com https://pfst.cf2.poecdn.net https://i.imgur.com https://wikimedia.org https://*.icons8.com https://*.giphy.com https://picsum.photos https://images.unsplash.com; frame-src 'self' https://www.youtube.com https://trytako.com; child-src 'self'; manifest-src 'self'; worker-src 'self'; upgrade-insecure-requests; block-all-mixed-content;">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bài tập Toán 8</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            width: 800px;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #007BFF;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        .formula {
+            font-size: 1.2em;
+            margin: 10px 0;
+            padding: 10px;
+            background-color: white;
+            border-radius: 5px;
+        }
+        .question-image {
+            max-width: 40%;
+            height: auto;
+            margin: 10px 0;
+            display: block;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .question-block {
+            margin: 20px 0;
+            padding: 15px;
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .answer-options {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .answer-option {
+            padding: 8px;
+            margin: 2px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .answer-option:hover {
+            background-color: #f0f8ff;
+        }
+        .answer-option.correct {
+            background-color: #d4edda;
+        }
+        .answer-option.wrong {
+            background-color: #f8d7da;
+        }
+        .feedback {
+            margin-top: 10px;
+            padding: 10px;
+            display: none;
+            border-radius: 4px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .feedback.correct {
+            color: #155724;
+        }
+        .feedback.wrong {
+            color: #721c24;
+        }
+        select {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            font-size: 1em;
+            border: 2px solid #007BFF;
+            border-radius: 5px;
+        }
+        .select-container {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .questions-container {
+            max-height: 70vh;
+            overflow-y: auto;
+            padding-right: 10px;
+        }
+        .question-number {
+            font-weight: bold;
+            color: #007BFF;
+            margin-bottom: 10px;
+        }
+        @media (max-width: 600px) {
+            .container {
+                width: 95%;
+                margin: 10px;
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bài tập Toán 8</h1>
+        <div class="select-container">
+            <select id="chuong-select" onchange="updateBaiSelect()">
+                <option value="">Chọn chương</option>
+            </select>
+            <select id="bai-select" onchange="loadExercise()">
+                <option value="">Chọn bài</option>
+            </select>
+        </div>
+        <div class="questions-container" id="questions-container"></div>
+    </div>
+
+    <script>
+        const toan8 = [
+            {
+                chuong: "Chương 1 - Đa thức",
+                bai: [
+                    "Bài 1 - Đơn thức",
+                    "Bài 2 - Đa thức",
+                    "Bài 3 - Phép cộng và phép trừ đa thức",
+                    "Bài 4 - Phép nhân đa thức",
+                    "Bài 5 - Phép chia đa thức cho đơn thức"
+                ]
+            },
+            {
+                chuong: "Chương 2 - Hằng đẳng thức đáng nhớ và ứng dụng",
+                bai: [
+                    "Bài 1 - Hiệu hai bình phương. Bình phương của tổng hiệu",
+                    "Bài 2 - Lập phương của một tổng hay một hiệu", 
+                    "Bài 3 - Tổng và hiệu hai lập phương",
+                    "Bài 4 - Phân tích đa thức thành nhân tử"
+                ]
+            },
+            {
+                chuong: "Chương 3 - Tứ giác",
+                bai: [
+                    "Bài 1 - Tứ giác",
+                    "Bài 2 - Hình thang cân",
+                    "Bài 3 - Hình bình hành",
+                    "Bài 4 - Hình chữ nhật", 
+                    "Bài 5 - Hình thoi và hình vuông"
+                ]
+            },
+            {
+                chuong: "Chương 4 - Định lý Thales",
+                bai: [
+                    "Bài 1 - Định lý Thales trong tam giác",
+                    "Bài 2 - Đường trung bình của tam giác", 
+                    "Bài 3 - Tính chất đường phân giác của tam giác"
+                ]
+              }
+        ];
+
+        let questions = [];
+        let currentChapter;
+        let currentLesson;
+
+        window.onload = function() {
+            const chuongSelect = document.getElementById('chuong-select');
+            toan8.forEach((chuong, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = chuong.chuong;
+                chuongSelect.appendChild(option);
+            });
+        };
+
+        function updateBaiSelect() {
+            const chuongIndex = document.getElementById('chuong-select').value;
+            const baiSelect = document.getElementById('bai-select');
+            baiSelect.innerHTML = '<option value="">Chọn bài</option>';
+            
+            if(chuongIndex !== '') {
+                toan8[chuongIndex].bai.forEach((bai, index) => {
+                    const option = document.createElement('option');
+                    option.value = index + 1;
+                    option.textContent = bai;
+                    baiSelect.appendChild(option);
+                });
+            }
+        }
+
+        async function loadExercise() {
+            currentChapter = parseInt(document.getElementById('chuong-select').value) + 1;
+            currentLesson = document.getElementById('bai-select').value;
+            
+            if(currentChapter && currentLesson) {
+                const filePath = `data_math/Chương ${currentChapter}/Bài ${currentLesson}.txt`;
+                try {
+                    const response = await fetch(filePath);
+                    if (!response.ok) {
+                        throw new Error('Không tìm thấy file bài tập');
+                    }
+                    const data = await response.text();
+                    processQuestions(data);
+                    displayAllQuestions();
+                } catch (error) {
+                    console.error('Error loading data:', error);
+                    document.getElementById('questions-container').innerHTML = 
+                        '<p style="color: red;">Không thể tải bài tập. Vui lòng thử lại sau.</p>';
+                }
+            }
+        }
+
+        function processQuestions(fileContent) {
+            questions = fileContent.trim().split('/#').map(block => block.trim()).filter(block => block);
+        }
+
+        async function checkImageExists(imagePath) {
+            try {
+                const response = await fetch(imagePath, { method: 'HEAD' });
+                return response.ok;
+            } catch {
+                return false;
+            }
+        }
+
+        async function displayAllQuestions() {
+            const container = document.getElementById('questions-container');
+            container.innerHTML = '';
+
+            for(let index = 0; index < questions.length; index++) {
+                const questionBlock = document.createElement('div');
+                questionBlock.className = 'question-block';
+
+                const formattedQuestion = questions[index].replace(/\$(.*?)\$/g, (match, p1) => `\\(${p1}\\)`);
+                const answers = formattedQuestion.split(/(?=[A-D]\. )/);
+                const correctAnswer = answers.find(answer => answer.includes('*'));
+
+                const questionNumber = document.createElement('div');
+                questionNumber.className = 'question-number';
+                //questionNumber.textContent = `Câu ${index + 1}:`;
+                questionBlock.appendChild(questionNumber);
+
+                const questionContent = document.createElement('div');
+                questionContent.className = 'formula';
+                questionContent.innerHTML = answers[0];
+                questionBlock.appendChild(questionContent);
+
+                // Kiểm tra và thêm hình ảnh nếu có
+                const imagePath = `data_math/Chương ${currentChapter}/img${currentLesson}/${index + 1}.png`;
+                const imageExists = await checkImageExists(imagePath);
+                
+                if (imageExists) {
+                    const imageElement = document.createElement('img');
+                    imageElement.src = imagePath;
+                    imageElement.className = 'question-image';
+                    imageElement.alt = `Hình minh họa câu ${index + 1}`;
+                    questionBlock.appendChild(imageElement);
+                }
+
+                const answerOptions = document.createElement('div');
+                answerOptions.className = 'answer-options';
+
+                const feedbackElement = document.createElement('div');
+                feedbackElement.className = 'feedback';
+
+                answers.slice(1).forEach(answer => {
+                    const answerOption = document.createElement('div');
+                    answerOption.className = 'answer-option';
+                    const answerText = answer.trim().replace(/\*$/, '');
+                    answerOption.innerHTML = answerText;
+                    answerOption.onclick = (event) => {
+                        checkAnswer(index, answer, correctAnswer, feedbackElement, answerOption);
+                    };
+                    answerOptions.appendChild(answerOption);
+                });
+
+                questionBlock.appendChild(answerOptions);
+                questionBlock.appendChild(feedbackElement);
+                container.appendChild(questionBlock);
+
+                renderMathInElement(questionBlock, {
+                    delimiters: [{left: '\\(', right: '\\)', display: false}],
+                    throwOnError: false
+                });
+            }
+        }
+
+        function checkAnswer(questionIndex, selectedAnswer, correctAnswer, feedbackElement, selectedElement) {
+            const isCorrect = selectedAnswer.includes('*');
+            
+            feedbackElement.style.display = 'block';
+            if (isCorrect) {
+                feedbackElement.textContent = 'Đúng!';
+                feedbackElement.className = 'feedback correct';
+                selectedElement.classList.add('correct');
+                selectedElement.style.pointerEvents = 'none';
+            } else {
+                feedbackElement.textContent = 'Sai!';
+                feedbackElement.className = 'feedback wrong';
+                selectedElement.classList.add('wrong');
+                setTimeout(() => {
+                    selectedElement.classList.remove('wrong');
+                }, 1000);
+            }
+        }
+    </script>
+
+
+</body></html>

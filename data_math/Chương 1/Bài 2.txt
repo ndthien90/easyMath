@@ -1,0 +1,74 @@
+
+/#
+Câu 1. Trong các biểu thức sau biểu thức nào không phải là đa thức.
+A. ${4 x + 3 y^{5}}$.	   
+B. ${4 x^{5} y^{3} + x z}$ .    
+C. ${4 x^{5} + 9 y^{3}}$ .	     
+D. $ \frac{4}{5 x + 3 y}$ . *
+/#
+Câu 2. Trong các biểu thức sau biểu thức nào không phải là đa thức.
+A. ${- 10 x + 6 y^{3}}$.	   
+B. ${- 10 x^{3} + 8 y^{6}}$ .    
+C. $ \frac{-10}{3 x + 6 y}$ . *	     
+D. ${- 10 x^{3} y^{6} + x^{2} z^{2}}$ .
+/#
+Câu 3. Trong các biểu thức sau biểu thức nào không phải là đa thức.
+A. ${5 x^{2} y + x z}$ .	   
+B. ${5 x^{2} - 6 y}$ .    
+C. $ \frac{5}{2 x + y}$ . *	     
+D. ${5 x + y^{2}}$.
+/#
+Câu 4. Chọn phương án sai?
+A. $- 9 x^{2}-y^{3}+6 x^{2} + y^{3} - 9=- 3 x^{2} - 9$.	   
+B. $- 9 x^{2}+6 x^{2} + y^{3} - 9=- 3 x^{2} - 9$. *    
+C. $3 x^{2} - 4+8 x^{2} + 2 = 11 x^{2} - 2$.	     
+D. $3 x^{2} + 8 x+13 x = 3 x^{2} + 21 x$.
+/#
+Câu 5. Chọn phương án sai?
+A. $6 x^{5} - 8+6 x^{5} + 1 = 12 x^{5} - 7$.	   
+B. $9 x-y^{6}+9 x + y^{6} + 9=18 x + 9$.    
+C. $9 x+9 x + y^{6} + 9=18 x + 9$. *	     
+D. $6 x^{5} + 6 x+5 x = 6 x^{5} + 11 x$.
+/#
+Câu 6. Chọn phương án sai?
+A. $5 x^{2} + 12 x+11 x = 5 x^{2} + 23 x$.	   
+B. $3 x^{4}+7 x^{4} + y^{5} + 3=10 x^{4} + 3$. *    
+C. $5 x^{2} - 3+12 x^{2} + 4 = 17 x^{2} + 1$.	     
+D. $3 x^{4}-y^{5}+7 x^{4} + y^{5} + 3=10 x^{4} + 3$.
+/#
+Câu 7.  Tìm bậc của đa thức  $- 9 x y^{5} - y^{10}+x^{7} + x y^{5} - 9$
+A. Bậc của đa thức bằng ${12}$.	   
+B. Bậc của đa thức bằng ${10}$. *    
+C. Bậc của đa thức bằng ${9}$.	     
+D. Bậc của đa thức bằng ${11}$.
+/#
+Câu 8.  Tìm bậc của đa thức  $6 x^{8} y^{5} - y^{9}- 8 x^{10} - 6 x^{8} y^{5} + 6$
+A. Bậc của đa thức bằng ${9}$.	   
+B. Bậc của đa thức bằng ${11}$.    
+C. Bậc của đa thức bằng ${12}$.	     
+D. Bậc của đa thức bằng ${10}$. *
+/#
+Câu 9.  Tìm bậc của đa thức  $7 x y^{4} - y^{4}- 10 x^{8} - 7 x y^{4} + 7$
+A. Bậc của đa thức bằng ${10}$.	   
+B. Bậc của đa thức bằng ${7}$.    
+C. Bậc của đa thức bằng ${9}$.	     
+D. Bậc của đa thức bằng ${8}$. *
+/#
+Câu 10.  Tính giá trị của đa thức  $- 8 x^{3} y^{5} - y^{8} + 1+x^{10} + x^{3} y^{5} - 8$ tại $x=1$ và $y=-2$
+A. ${-31}$.	   
+B. ${-30}$.    
+C. ${-37}$.	     
+D. ${-38}$. *
+/#
+Câu 11.  Tính giá trị của đa thức  $- 6 x y - y^{9} + 5+5 x^{6} + x y - 6$ tại $x=-1$ và $y=-2$
+A. ${512}$.	   
+B. ${506}$. *    
+C. ${507}$.	     
+D. ${507}$.
+/#
+Câu 12.  Tính giá trị của đa thức  $5 x^{2} y^{4} - y^{4} + 5+5 x^{4} + x^{2} y^{4} + 5$ tại $x=2$ và $y=1$
+A. ${103}$.	   
+B. ${108}$.    
+C. ${113}$. *	     
+D. ${114}$.
+/#

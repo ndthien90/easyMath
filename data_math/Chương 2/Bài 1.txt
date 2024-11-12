@@ -1,0 +1,122 @@
+
+/#
+Câu 1.  Khai triển ${\left(2 x + 7\right)^{2}}$ ta được kết quả
+A. ${4 x^{2} - 28 x + 49}$ .	   
+B. ${4 x^{2} + 56 x + 49}$.    
+C. ${4 x^{2} - 56 x + 49}$.	     
+D. ${4 x^{2} + 28 x + 49}$. *
+/#
+Câu 2.  Khai triển ${\left(5 x^{2} + 6 y\right)^{2}}$ ta được kết quả.
+A. ${25 x^{4} - 120 x^{2} y + 36 y^{2}}$.	   
+B. ${25 x^{4} + 60 x^{2} y + 36 y^{2}}$. *    
+C. ${25 x^{4} + 120 x^{2} y + 36 y^{2}}$ .	     
+D. ${25 x^{4} - 60 x^{2} y + 36 y^{2}}$.
+/#
+Câu 3.  Khai triển ${16 x^{2} - 4 y^{2}}$ ta được kết quả
+A. ${\left(4 x - 2 y\right) \left(4 x + 2 y\right)}$. *	   
+B. ${\left(4 x - 2 y\right) \left(5 x + 2 y\right)}$.	    
+C. ${\left(4 x + 2 y\right)^{2}}$ .	     
+D. ${\left(4 x - 2 y\right)^{2}}$.
+/#
+Câu 4.  Biểu thức ${16 x^{2} + 48 x + 36}$ bằng
+A. ${\left(4 x + 4\right)^{2}}$.	   
+B. ${\left(4 x + 6\right)^{2}}$. *    
+C. ${\left(4 x + 7\right)^{2}}$ .	     
+D. ${\left(4 x + 9\right)^{2}}$.
+/#
+Câu 5.  Biểu thức ${16 x^{2} - 8 x y + y^{2}}$ bằng
+A. ${\left(- 3 x + y\right)^{2}}$.	   
+B. ${\left(- 4 x + 3 y\right)^{2}}$ .    
+C. ${\left(- 5 x + y\right)^{2}}$.	     
+D. ${\left(- 4 x + y\right)^{2}}$. *
+/#
+Câu 6. Rút gọn biểu thức sau ${\left(3 x - 3\right)^{2} + \left(3 x + 3\right)^{2}}$ 
+A. ${18 x^{2} + 18}$. *	   
+B. ${18 x^{2} + 22}$ .    
+C. ${18 x^{2} + 16}$.	     
+D. ${18 x^{2} + 20}$ .
+/#
+Câu 7. Rút gọn biểu thức sau ${\left(x - 6 y\right)^{2} + \left(5 x + 6 y\right)^{2}}$ 
+A. ${26 x^{2} + 48 x y + 72 y^{2} - 2}$.	   
+B. ${26 x^{2} + 48 x y + 72 y^{2}}$. *    
+C. ${26 x^{2} + 48 x y + 72 y^{2} + 9}$ .	     
+D. ${26 x^{2} + 48 x y + 72 y^{2} + 2}$ .
+/#
+Câu 8. $\left(x - 6\right) \left(x + 6\right) - \left(x + 1\right) \left(x + 5\right)$
+A. $- 6 x - 41$. *	   
+B. $- 6 x - 31$.    
+C. $4 x - 41$.	     
+D. $2 x^{2} - 6 x - 41$.
+/#
+Câu 9. Thực hiện phép tính $\left(x + 1\right)^{2} + \left(x + 3\right) \left(x + 4\right)$ bằng
+A. $2 x^{2} + 5 x + 13$.	   
+B. $2 x^{2} + x + 13$.	    
+C. $2 x^{2} + 9 x - 11$.	     
+D. $2 x^{2} + 9 x + 13$. *
+/#
+Câu 10. Thu gọn $\left(3 x - 5 y\right)^{2} + \left(6 x - 10 y\right) \left(6 x + y\right) + \left(6 x + y\right)^{2}$ bằng 
+A. ${\left(9 x - 4 y + 2\right)^{2}}$ .	   
+B. ${\left(9 x - 4 y - 1\right)^{2}}$.    
+C. ${\left(9 x - 4 y\right)^{2}}$. *	     
+D. ${\left(9 x - 4 y + 9\right)^{2}}$.
+/#
+Câu 11. Tìm ${x}$ biết $x^{2} - 64=0$ 
+A. $x=8$ hoặc $x=-9$.	   
+B. $x=8$ hoặc $x=-8$. *    
+C. $x=12$ hoặc $x=-10$.	     
+D. $x=4$ hoặc $x=-12$.
+/#
+Câu 12. Tìm ${x}$ biết $36 x^{2} - 1=0$ 
+A. $x=- \frac{5}{6}$ hoặc $x=- \frac{25}{6}$.	   
+B. $x=- \frac{17}{6}$ hoặc $x=- \frac{7}{6}$.    
+C. $x=\frac{1}{6}$ hoặc $x=- \frac{1}{6}$. *	     
+D. $x=\frac{19}{6}$ hoặc $x=- \frac{25}{6}$.
+/#
+Câu 13. Tìm ${x}$ biết $- \left(5 x + 1\right)^{2} + \left(6 x + 2\right)^{2}=0$ 
+A. $x=- \frac{25}{11}$ hoặc $x=-2$.	   
+B. $x=- \frac{3}{11}$ hoặc $x=-1$. *    
+C. $x=\frac{41}{11}$ hoặc $x=1$.	     
+D. $x=\frac{96}{11}$ hoặc $x=0$.
+/#
+Câu 14. Tìm ${x}$ biết $- \left(x - 5\right) \left(x + 5\right) + \left(x + 4\right)^{2} = 0 $ 
+A. $x=- \frac{79}{8}$ .	   
+B. $x=- \frac{23}{8}$ .	    
+C. $x=\frac{41}{8}$ .	     
+D. $x=\frac{9}{8}$ . *
+/#
+Câu 15.  Giá trị lớn nhất của biểu thức $A= - x^{2} - 1$ là
+A. ${9}$ .	   
+B. ${3}$ .	    
+C. ${-1}$ . *	     
+D. ${-3}$ .
+/#
+Câu 16.  Giá trị lớn nhất của biểu thức $A= - \left(8 x - 5\right)^{2} - 8$ là
+A. ${-14}$ .	   
+B. ${-8}$ . *	    
+C. ${-13}$ .	     
+D. ${5}$ .
+/#
+Câu 17.  Giá trị nhỏ nhất của biểu thức $x^{2} - \frac{x}{2} + \frac{9}{16}$ là
+A. ${\frac{1}{2}}$ . *	   
+B. ${- \frac{9}{2}}$ .	    
+C. ${- \frac{21}{2}}$ .	     
+D. ${\frac{21}{2}}$ .
+/#
+Câu 18. Giá trị lớn nhất của biểu thức $\left(- x - 13\right) \left(x + 3\right) - 27$ là 
+A. ${6}$ .	   
+B. ${-2}$ . *	    
+C. ${-16}$ .	     
+D. ${-3}$ .
+/#
+Câu 19.  Khi ${x= a, y= b}$ thì $x^{2} + 4 x + y^{2} + 5=- 2 y$. Tính ${a+b}$
+A. ${-7}$.	   
+B. ${-3}$. *	    
+C. ${3}$.	     
+D. ${9}$ .
+/#
+Câu 20.  Chọn khẳng định đúng trong các khẳng định sau:
+A. $\left(4 n - 6\right)^{2} - 36$ không chia hết cho ${4}$ với mọi $n \in \mathbb{Z}$ .	   
+B. $\left(4 n - 6\right)^{2} - 36$ chia hết cho ${4}$ với mọi $n \in \mathbb{Z}$. *    
+C. $\left(11 n + 8\right)^{2} - 64$ không chia hết cho ${11}$ với mọi $n \in \mathbb{Z}$.	     
+D. $\left(5 - 8 n\right)^{3} - 125$  không chia hết cho ${8}$ với mọi $n \in \mathbb{Z}$.
+/#

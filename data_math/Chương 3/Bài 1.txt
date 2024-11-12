@@ -1,0 +1,80 @@
+
+/#
+Câu 1. Tìm số đo ${x}$ trong hình sau. 
+A. $173^{\circ}$.	   
+B. $103^{\circ}$ . *	    
+C. $217^{\circ}$.	     
+D. $176^{\circ}$ .
+/#
+Câu 2. Tìm số đo ${x}$ trong hình sau. 
+A. $214^{\circ}$.	   
+B. $101^{\circ}$ . *	    
+C. $176^{\circ}$.	     
+D. $172^{\circ}$ .
+/#
+Câu 3. Tìm số đo ${x}$ trong hình sau. 
+A. $103^{\circ}$ . *	   
+B. $215^{\circ}$.	    
+C. $178^{\circ}$.	     
+D. $173^{\circ}$ .
+/#
+Câu 4. Tìm số đo ${x}$ trong hình sau. 
+A. $106^{\circ}$ . *	   
+B. $111^{\circ}$.	    
+C. $96^{\circ}$ .	     
+D. $116^{\circ}$.
+/#
+Câu 5. Tìm số đo ${x}$ trong hình sau. 
+A. $143^{\circ}$.	   
+B. $128^{\circ}$ .	    
+C. $148^{\circ}$.	     
+D. $138^{\circ}$ . *
+/#
+Câu 6. Tìm số đo ${x}$ trong hình sau. 
+A. $138^{\circ}$.	   
+B. $133^{\circ}$.	    
+C. $128^{\circ}$ . *	     
+D. $118^{\circ}$ .
+/#
+Câu 7. Tìm số đo ${x}$ trong hình sau. 
+A. $x={85}^{\circ}$.	   
+B. $x={90}^{\circ}$ .	    
+C. $x={80}^{\circ}$ . *	     
+D. $x={79}^{\circ}$.
+/#
+Câu 8. Tìm số đo ${x}$ trong hình sau. 
+A. $x={76}^{\circ}$ .	   
+B. $x={71}^{\circ}$.	    
+C. $x={65}^{\circ}$.	     
+D. $x={66}^{\circ}$ . *
+/#
+Câu 9. Tìm số đo ${x}$ trong hình sau. 
+A. $x={61}^{\circ}$.	   
+B. $x={62}^{\circ}$ . *	    
+C. $x={72}^{\circ}$ .	     
+D. $x={67}^{\circ}$.
+/#
+Câu 10. Tìm số đo ${x}$ trong hình sau. 
+A. $x={112}^{\circ}$ .	   
+B. $x={107}^{\circ}$ . *	    
+C. $x={109}^{\circ}$ .	     
+D. $x={108}^{\circ}$  .
+/#
+Câu 11. Tìm số đo $\widehat{B}_{1}$ trong hình sau. 
+A. $x={71}^{\circ}$  .	   
+B. $x={110}^{\circ}$ .	    
+C. $x={109}^{\circ}$ . *	     
+D. $x={72}^{\circ}$ .
+/#
+Câu 12. Cho tứ giác ${ABCD}$ có hai tia phân giác trong $\widehat{D}$ và $\widehat{C}$ cắt nhau tại ${I}$ sao cho $\widehat{I} =90^{\circ}$. Biết $\widehat{B}-\widehat{A} =6^{\circ}$. Tính $\widehat{A}$ và $\widehat{B}$
+A. $\widehat{B}=48^{\circ}$, $\widehat{A}=42^{\circ}$ .	   
+B. $\widehat{B}=93^{\circ}$, $\widehat{A}=87^{\circ}$. *	    
+C. $\widehat{B}=83^{\circ}$, $\widehat{A}=97^{\circ}$ .	     
+D. $\widehat{B}=89^{\circ}$, $\widehat{A}=91^{\circ}$ .
+/#
+Câu 13.  Tính số đo của $\widehat{A}_{1}$
+A. $99^{\circ} $.	   
+B. $98^{\circ} $. *    
+C. $97^{\circ} $ .	     
+D. $100^{\circ} $ .
+/#

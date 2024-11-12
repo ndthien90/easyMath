@@ -1,0 +1,61 @@
+
+/#
+Câu 1. Cho hình bình hành ${EFKH}$ có $EH\bot EK$. Gọi ${I, J}$ lần lượt là trung điểm của ${ EF, KH }$ 
+A. Chứng minh $IJ \bot EK $.
+B. Tứ giác ${EIKJ}$ là hình gì?
+/#
+Câu 2. Cho hình bình hành ${A B C D }$ có $A D \bot A C $. Gọi ${E , F }$ lần lượt là trung điểm của ${ A B , C D  }$ 
+A. Chứng minh $E F  \bot A C  $.
+B. Tứ giác ${A E C F }$ là hình gì?
+/#
+Câu 3. Cho hình bình hành ${ABCD}$ có $AD\bot AC$. Gọi ${M, N}$ lần lượt là trung điểm của ${ AB, CD }$ 
+A. Chứng minh $MN \bot AC $.
+B. Tứ giác ${AMCN}$ là hình gì?
+/#
+Câu 4. Cho hình vuông ${GHFE}$. Trên các cạnh $AB, BC, CD, DA$ lấy lần lượt các điểm $M,N,P,Q$ sao cho $GM=HN=FP=EQ $ 
+A. Chứng minh rằng: $MH=NF=PE=QG $. 
+B. Chứng minh $\Delta{QGM}= \Delta{NFP}$ 
+C. Chứng minh ${MNPQ}$ là hình vuông.
+/#
+Câu 5. Cho hình vuông ${QKHF}$. Trên các cạnh $AB, BC, CD, DA$ lấy lần lượt các điểm $M,N,P,Q$ sao cho $QM=KN=HI=FJ $ 
+A. Chứng minh rằng: $MK=NH=IF=JQ $. 
+B. Chứng minh $\Delta{JQM}= \Delta{NHI}$ 
+C. Chứng minh ${MNIJ}$ là hình vuông.
+/#
+Câu 6. Cho hình vuông ${EFKH}$. Trên các cạnh $AB, BC, CD, DA$ lấy lần lượt các điểm $M,N,P,Q$ sao cho $EI=FJ=KM=HN $ 
+A. Chứng minh rằng: $IF=JK=MH=NE $. 
+B. Chứng minh $\Delta{NEI}= \Delta{JKM}$ 
+C. Chứng minh ${IJMN}$ là hình vuông.
+/#
+Câu 7. Cho hình vuông ${IJQK }$. Trên cạnh ${JQ}$ lấy điểm ${E}$, trên cạnh ${QK}$ lấy điểm ${F}$ sao cho ${JE=QF }$ 
+A. Chứng minh $IE=JF$ 
+B. Chứng minh $IE\bot JF$
+/#
+Câu 8. Cho hình vuông ${ABCD }$. Trên cạnh ${BC}$ lấy điểm ${M}$, trên cạnh ${CD}$ lấy điểm ${N}$ sao cho ${BM=CN }$ 
+A. Chứng minh $AM=BN$ 
+B. Chứng minh $AM\bot BN$
+/#
+Câu 9. Cho hình vuông ${QKHF }$. Trên cạnh ${KH}$ lấy điểm ${M}$, trên cạnh ${HF}$ lấy điểm ${N}$ sao cho ${KM=HN }$ 
+A. Chứng minh $QM=KN$ 
+B. Chứng minh $QM\bot KN$
+/#
+Câu 10. Cho hình vuông ${EFKH }$. Trên cạnh ${EH}$ lấy điểm ${J}$, trên cạnh ${KH}$ lấy điểm ${I}$ sao cho ${EJ=HI }$ 
+A. Chứng minh $\Delta{ EFJ }=\Delta{ EHI }$ 
+B. Chứng minh $\widehat{J E I}+\widehat{E J F} =90^{\circ} $ 
+C. Chứng minh $EI \bot FJ$.
+/#
+Câu 11. Cho hình vuông ${PQRT }$, gọi ${M, N, O}$ lần lượt là trung điểm của $ {PQ, QR, RT }$ 
+A. ${PMRO }$ là hình bình hành. 
+B. Chứng minh $TN \bot RM$ tại ${E}$. 
+C. ${PO}$ cắt ${TN}$ tại ${F}$. Chứng minh $FT=FE$
+/#
+Câu 12. Cho hình chữ nhật ${EFGH }$, tia phân giác $\widehat{G}$ và $\widehat{H}$ cắt nhau tại ${N}$, tia phân giác $\widehat{E}$ và $\widehat{F}$ cắt nhau tại ${M}$ 
+A. Tính các góc trong $\Delta {HNG} $. 
+B. Chứng minh $\Delta {EMF}= \Delta {GNH}$. 
+C. ${FM}$ cắt ${GN}$ tại ${Q}$.${EM}$ cắt ${HN}$ tại ${P}$. Chứng minh $ {PMQN}$ là hình vuông.
+/#
+Câu 13. Cho hình chữ nhật ${MNPQ}$ có $MN=2NP$. Gọi ${I}$ là trung điểm của ${MN}$ và ${J}$ là trung điểm của ${QP}$.  
+A. Chứng minh ${MIJQ}$ và ${NIJP}$ là hình vuông. 
+B. Chứng minh $\Delta{QIP}$ vuông cân. 
+C. Gọi ${F}$ và ${E}$ lần lượt là tâm các hình vuông ${MIJQ, NIJP}$. Chứng minh ${IFJE}$ là hình vuông.
+/#
